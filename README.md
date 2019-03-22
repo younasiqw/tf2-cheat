@@ -1,7 +1,7 @@
 # tf2-cheat
 some tf2 cheat 
 
-![pic](http://buxybuxbux.xyz/s/devenv_lq1kFeQW19.png)
+![pic](https://i.imgur.com/edIBLjf.jpg)
 
 credits:
 - myself / the ugly ass menu and the wasted lifetime
